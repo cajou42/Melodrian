@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://d0k74jspvua42"]
+
+[sub_resource type="TileSet" id="TileSet_vvd5j"]
+
+[node name="GameBoard" type="TileMap"]
+tile_set = SubResource("TileSet_vvd5j")
+format = 2
